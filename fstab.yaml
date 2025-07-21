@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p99952-e1559416.adobeaemcloud.com/ui#/aem/sites.html/content/saur-eds-xwalk"
+    url: "https://author-p99952-e1559416.adobeaemcloud.com/bin/franklin.delivery/saur-adobe/saur-eds-xwalk/main"
     type: "markup"
     suffix: ".html"
